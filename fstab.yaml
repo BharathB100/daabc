@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/BharathB100/daabc
+    url: https://content.da.live/BharathB100/daabc/
     type: markup
