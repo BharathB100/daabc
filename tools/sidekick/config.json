@@ -1,5 +1,9 @@
 {
   "project": "DA Block Collection",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}"
+  "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
+  "previewHost": "main--daabc--bharathb100.aem.page",
+  "liveHost": "main--daabc--bharathb100.aem.live",
+  "contentSourceUrl": "https://content.da.live/aemsites/da-block-collection/",
+  "contentSourceType": "markup"
 }
